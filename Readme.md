@@ -4,7 +4,7 @@
   <img style = "height:200px"  src="https://github.com/TheVeilDarkness/XueniriQ-XNIQ-/blob/main/images/xueniriq.png"/>
   </br>
 </p>
-<h3 align="center">XueniriQ (XNIQ) ™ is a Copyright © Project , don't copy code* and name ! </h3>
+<h3 align="center">XueniriQ (XNIQ) is a Copyright © Project , don't copy code* and name ! </h3>
 <h4 align="center">* does not apply to API and wallet results </h4>
 <h3 align="center">XueniriQ (XNIQ) ™ is a coin that can be mined with Arduino's, ESP's boards , CPU's and NVIDIA GPU's !</h3>
 <h3 align="center">XueniriQ (XNIQ) ™ supports system - Proof of Work and Proof of Stake ! </h3>
