@@ -12,9 +12,9 @@
 <h3 align="center">How ? Open  Windows CMD in admin and write " pip install " and space and item up.</h3>
 <br></br>
 <h2 align="center">Info : </h2>
-<a align="center" href="https://xericoin.bluserwer.pl">----------> Link to project website <----------</a>
+<a align="center" href="https://xueniriq.sytes.net">----------> Link to project website <----------</a>
 <br></br>
-<a align="center" href="https://xericoin.bluserwer.pl/api.html">----------> Link to REST API Json <----------</a>
+<a align="center" href="https://xueniriq.sytes.net/api.html">----------> Link to REST API Json <----------</a>
 
 <br></br>
 
@@ -54,7 +54,7 @@ Price - XueniriQ (XNIQ) ™ / USD ≈ 0.0001 $
 <br></br>
 
 <h2 align="center">REST API :</h2>
-<h3 align="center">To get user data go to : http://xrqc.sytes.net:5000/users/your_username </h3>
+<h3 align="center">To get user data go to : http://xueniriq.sytes.net:5000/users/your_username </h3>
 
 <br></br>
 
@@ -70,7 +70,7 @@ Result:
 ````
 
 <h2 align="center">Online Live API :</h2>
-<h3 align="center">To get user data go to : https://xericoin.bluserwer.pl/api.html </h3>
+<h3 align="center">To get user data go to : https://xueniriq.sytes.net/api.html </h3>
 
 <br></br>
 
@@ -247,8 +247,8 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
 
 <h2 align="center">Get started</h2><br>
 
-Official getting started guides for creating an account and setting up miners on variety of devices are available <a href="https://xericoin.bluserwer.pl">on the official website</a>.<br>
-Frequently asked questions and answers, troubleshooting help can be found in the [Wikis](https://github.com/XeRi-PL/XeRi-Coin/wiki).<br>
+Official getting started guides for creating an account and setting up miners on variety of devices are available <a href="https://xueniriq.sytes.net">on the official website</a>.<br>
+Frequently asked questions and answers, troubleshooting help can be found in the [Wikis](https://github.com/TheVeilDarkness).<br>
 
 | Official Wallets | Official Miners |
 :-----------------:|:----------------:
@@ -287,7 +287,7 @@ How to help?
 <h2 align="center">Developers</h2><br>
 
 *   **Developers:**
-    * [@XeRi-PL](https://github.com/x-XeriX-x) (Founder/lead dev)
+    * [@XeRi-PL](https://github.com/TheVeilDarkness) (Founder/lead dev)
 <h2 align="center">About project : </h2><br>
 
 - XueniriQ ™ ("XNIQ's")- project started in 12.04.2021 y.
