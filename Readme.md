@@ -6,7 +6,7 @@
 </p>
 <h3 align="center">XueniriQ (XNIQ) ™ is a Copyright © Project , don't copy code* and name ! </h3>
 <h4 align="center">* does not apply to API and wallet results </h4>
-<h3 align="center">XueniriQ (XNIQ) ™ is a coin that can be mined with Arduinos, ESP boards , CPU'S and NVIDIA GPU'S !</h3>
+<h3 align="center">XueniriQ (XNIQ) ™ is a coin that can be mined with Arduino's, ESP's boards , CPU's and NVIDIA GPU's !</h3>
 <h3 align="center">XueniriQ (XNIQ) ™ supports system - Proof of Work and Proof of Stake ! </h3>
 <h3 align="center">Install in python - colorama , tabulate , pyopencl , GPUtil , pyserial , termcolor</h3>
 <h3 align="center">How ? Open  Windows CMD in admin and write " pip install " and space and item up.</h3>
