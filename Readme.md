@@ -1,13 +1,7 @@
 
 <p align = "center">
-  <a href="">
-    <img width="500em" src="" />
-  </a>
   <br>
-  <a href="">
-    <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/release_0.1.3.png" /></a>
-  <a href="">
-    <img src="https://github.com/XeRi-PL/XeRi-Coin/blob/main/Resources/release_0.1.4.png" /></a>
+  <img style = "height:200px"  src="https://github.com/TheVeilDarkness/XueniriQ-XNIQ-/blob/main/images/xueniriq.png"/>
   </br>
 </p>
 <h3 align="center">XueniriQ (XNIQ) ™ is a Copyright © Project , don't copy code* and name ! </h3>
