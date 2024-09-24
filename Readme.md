@@ -51,23 +51,6 @@ Price - XueniriQ (XNIQ) ™ / USD ≈ 0.0001 $
 </table>
 
 <br></br>
-<br></br>
-
-<h2 align="center">REST API :</h2>
-<h3 align="center">To get user data go to : http://xueniriq.sytes.net:5000/users/your_username </h3>
-
-<br></br>
-
-Result:
-```BASH
-{
-  "amount": "3.320646156",
-  "hashrate": "0.00026",
-  "list_miner": [
-    "AVR_Nano - (260 h/s)"
-  ]
-}
-````
 
 <h2 align="center">Online Live API :</h2>
 <h3 align="center">To get user data go to : https://xueniriq.sytes.net/api.html </h3>
