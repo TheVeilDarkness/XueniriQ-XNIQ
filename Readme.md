@@ -45,7 +45,7 @@ Price - XueniriQ (XNIQ) ™ / USD ≈ 0.0001 $
       ⚡ Transaction time: Instant<br>
       🔤 Ticker: XueniriQ (XNIQ) ™<br>
       ⚒️ Algorithms: SHA-1 +more planned<br>
-      ♐ Rewards: TRX and SOL y<br>
+      ♐ Rewards: TRX and SOL<br>
     </td>
   </tr>
 </table>
