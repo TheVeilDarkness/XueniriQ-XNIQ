@@ -43,9 +43,9 @@ Price - XueniriQ (XNIQ) ™ / USD ≈ 0.0001 $
     <td>
       ♾️ Coin supply: Infinite<br>
       ⚡ Transaction time: Instant<br>
-      🔤 Ticker: XueniriQ (XNIQ) ™ (DRX)<br>
+      🔤 Ticker: XueniriQ (XNIQ) ™<br>
       ⚒️ Algorithms: SHA-1 +more planned<br>
-      ♐ Rewards: supported by "XeRi system" helping to reward miners fairly<br>
+      ♐ Rewards: TRX and SOL y<br>
     </td>
   </tr>
 </table>
