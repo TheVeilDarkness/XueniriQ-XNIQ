@@ -117,16 +117,16 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
   </tr>
   <tr>
     <td>
-      <br>GPU : NVIDIA NVS 510 2GB 
-      <br>GPU : NVIDIA GTX 770 2GB
-      <br>GPU : NVIDIA GTX 750 Ti 2GB
-      <br>GPU : NVIDIA GTX 970 4GB
+      <br>GPU :  
+      <br>GPU : 
+      <br>GPU : 
+      <br>GPU : 
     </td>
     <td>
-      <br>≈ 3,40 MH/s 
-      <br>≈ 28,5 MH/s
-      <br>≈ 20,0 MH/s
-      <br>≈ 37,32 MH/s
+      <br>≈  MH/s 
+      <br>≈  MH/s
+      <br>≈  MH/s
+      <br>≈  MH/s
     </td>
     <td>
       <br>Windows 11
@@ -135,16 +135,16 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
       <br>Windows 10 
     </td>
     <td>
-      <br>≈ 46,5 XueniriQ (XNIQ) ™
-      <br>≈ 375 XueniriQ (XNIQ) ™
-      <br>≈ 290 XueniriQ (XNIQ) ™
-      <br>≈ 540 XueniriQ (XNIQ) ™
+      <br>≈  XueniriQ (XNIQ) ™
+      <br>≈  XueniriQ (XNIQ) ™
+      <br>≈ XueniriQ (XNIQ) ™
+      <br>≈  XueniriQ (XNIQ) ™
     </td>
     <td>
-      <br>≈ 1 400 XueniriQ (XNIQ) ™
-      <br>≈ 11 250 XueniriQ (XNIQ) ™
-      <br>≈ 8 700 XueniriQ (XNIQ) ™
-      <br>≈ 16 200 XueniriQ (XNIQ) ™
+      <br>≈ XueniriQ (XNIQ) ™
+      <br>≈  XueniriQ (XNIQ) ™
+      <br>≈  XueniriQ (XNIQ) ™
+      <br>≈  XueniriQ (XNIQ) ™
     </td>
   </tr>
 </table>
@@ -159,14 +159,12 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
   </tr>
   <tr>
     <td>
-      <br>Attiny 85
       <br>Arduino Nano v3
       <br>WAVGAT Nano v3
       <br>ESP 8266
       <br>ESP 32 Lolin Wemos
     </td>
     <td>
-      <br>≈ 100 H/s
       <br>≈ 300 H/s
       <br>≈ 300 H/s
       <br>≈ 40 kH/s
@@ -177,21 +175,18 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
       <br>Windows 11
       <br>Windows 11
       <br>Windows 11
-      <br>Windows 11
     </td>
     <td>
-      <br>≈ 1 XueniriQ (XNIQ) ™
-      <br>≈ 3 XueniriQ (XNIQ) ™
-      <br>≈ 3 XueniriQ (XNIQ) ™
-      <br>≈ 13 XueniriQ (XNIQ) ™
-      <br>≈ 25 XueniriQ (XNIQ) ™
+      <br>≈ 81.95 XueniriQ (XNIQ) ™
+      <br>≈ 81.95 XueniriQ (XNIQ) ™
+      <br>≈ 139.9 XueniriQ (XNIQ) ™
+      <br>≈ 166,6 XueniriQ (XNIQ) ™
     </td>
     <td>
-      <br>≈ 30 XueniriQ (XNIQ) ™
-      <br>≈ 4 916 XueniriQ (XNIQ) ™
-      <br>≈ 90 XueniriQ (XNIQ) ™
-      <br>≈ 400 XueniriQ (XNIQ) ™
-      <br>≈ 750 XueniriQ (XNIQ) ™
+      <br>≈ 2458 XueniriQ (XNIQ) ™
+      <br>≈ 2458 XueniriQ (XNIQ) ™
+      <br>≈ 4200 XueniriQ (XNIQ) ™
+      <br>≈ 5000 XueniriQ (XNIQ) ™
     </td>
     </td>
   </tr>
@@ -205,25 +200,13 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
   </tr>
   <tr>
     <td>
-      <br>DAI
-      <br>BCH
-      <br>DOGE
-      <br>SUSHI
-      <br>EOS
+      <br>TRX
     </td>
     <td>
-      <br>5 000 XueniriQ (XNIQ) ™
-      <br>20 000 XueniriQ (XNIQ) ™
-      <br>5 000 XueniriQ (XNIQ) ™
-      <br>15 000 XueniriQ (XNIQ) ™
-      <br>15 000 XueniriQ (XNIQ) ™
+      <br>10 000 XueniriQ (XNIQ)
     </td>
     <td>
-      <br> ≈ 0,15 $
-      <br> ≈ 0,50 $
-      <br> ≈ 1.44 DOGE
-      <br> ≈ 0,15 $
-      <br> ≈ 0,15 $
+      <br> 1%
     </td>
   </tr>
 </table>
