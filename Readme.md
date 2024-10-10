@@ -188,7 +188,7 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
     </td>
     <td>
       <br>≈ 30 XueniriQ (XNIQ) ™
-      <br>≈ 90 XueniriQ (XNIQ) ™
+      <br>≈ 4 916 XueniriQ (XNIQ) ™
       <br>≈ 90 XueniriQ (XNIQ) ™
       <br>≈ 400 XueniriQ (XNIQ) ™
       <br>≈ 750 XueniriQ (XNIQ) ™
