@@ -8,7 +8,7 @@
 <h4 align="center">* does not apply to API and wallet results </h4>
 <h3 align="center">XueniriQ (XNIQ) ™ is a coin that can be mined with Arduino's, ESP's boards , CPU's and NVIDIA GPU's !</h3>
 <h3 align="center">XueniriQ (XNIQ) ™ system - Proof of Work and Proof of Stake ! </h3>
-<h3 align="center">!!!! To good waork Nvidia Miner Install Python 3.12.0 !!!!</h3>
+<h3 align="center">!!!! To good work Nvidia Miner Install Python 3.12.0 !!!!</h3>
 <h3 align="center">How ? Open  Windows CMD in admin and write " pip install " and space and item up.</h3>
 <br></br>
 <h2 align="center">Info : </h2>
