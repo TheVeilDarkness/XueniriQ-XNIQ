@@ -216,12 +216,13 @@ My exchange delivery just 4.7 $ ( 20 PLN ) at month because i don't have more mo
 Official getting started guides for creating an account and setting up miners on variety of devices are available <a href="https://xueniriq.sytes.net">on the official website</a>.<br>
 Frequently asked questions and answers, troubleshooting help can be found in the [Wikis](https://github.com/TheVeilDarkness).<br>
 
-| Official Wallets | Official Miners |
+| Official Miners |
 :-----------------:|:----------------:
-[<img src="">]()  |  [<img src="">]()
+[<img src="images/PCMINER">]()  |  [<img src="images/AVRMINER">]()
 
 
-
+| Official Wallet |
+[<img src="">]()
 
 <h2 align="center">Development</h2><br>
 
