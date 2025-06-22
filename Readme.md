@@ -1,7 +1,7 @@
 
 <p align = "center">
   <br>
-  <img style = "height:200px"  src="https://github.com/TheVeilDarkness/XueniriQ-XNIQ-/blob/main/images/xueniriq.png"/>
+  <img style = "height:200px"  src="images/xueniriq.png"/>
   </br>
 </p>
 <h3 align="center">XueniriQ ™ (XNIQ) is a Copyright © Project , don't copy code* and name ! </h3>
