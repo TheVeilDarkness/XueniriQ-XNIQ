@@ -220,7 +220,7 @@ Frequently asked questions and answers, troubleshooting help can be found in the
 [<img src="images/PCMINER.png">]()  |  [<img src="images/AVRMINER.png">]()   |  [<img src="images/GPUMINER.png">]()
 
 | Official Wallet |
-[<img src="">]()
+[<img src="images/WALLET.png">]()
 
 <h2 align="center">Development</h2><br>
 
